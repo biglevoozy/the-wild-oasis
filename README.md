@@ -2,7 +2,7 @@
 
 The Wild Oasis – Hotel Guest & Booking Management SPA
 
-![image](https://github.com/user-attachments/assets/ec7d7b8c-2597-4fc6-83ca-7535bc334006)
+![image](https://github.com/user-attachments/assets/81ed2811-3f98-4726-b584-a0b3c28e1e05)
 
 The Wild Oasis is a modern Single Page Application (SPA) built with React, Styled-Components for creating better and unique styling and powered by Supabase for a seamless hotel management experience. It provides an intuitive and efficient way to track guests, manage bookings, and create new reservations in real time.
 
@@ -16,4 +16,5 @@ Key Features:
 
 Designed for efficiency and ease of use, The Wild Oasis helps hotel staff stay organized and deliver a smooth guest experience.
 
-![image](https://github.com/user-attachments/assets/feb9aa30-c2a9-4dce-8877-43d6ecdcb8b7)
+![image](https://github.com/user-attachments/assets/1eab3e61-3334-43de-abd7-55ac07cadd27)
+
